@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "class": "pop-shell-example",
+      "title": "pop-shell-example"
+    },
+    {
+      "class": "Mullvad VPN"
+    },
+    {
+      "class": "Steam",
+      "title": "Steam - Refresh Login"
+    },
+    {
+      "class": "mpv"
+    },
+    {
+      "class": "Pinentry-gtk-2"
+    },
+    {
+      "class": "Gnome-control-center"
+    },
+    {
+      "class": "flameshot"
+    },
+    {
+      "class": "Minecraft Launcher"
+    },
+    {
+      "class": "Gnome-calculator"
+    },
+    {
+      "class": "blockkraft",
+      "title": "blockkraft"
+    }
+  ],
+  "log_on_focus": false,
+  "move_pointer_on_switch": false,
+  "default_pointer_position": "TOP_LEFT"
+}
