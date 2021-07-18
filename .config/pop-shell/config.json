@@ -32,6 +32,9 @@
     {
       "class": "blockkraft",
       "title": "blockkraft"
+    },
+    {
+      "class": "Org.gnome.Weather"
     }
   ],
   "log_on_focus": false,
